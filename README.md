@@ -10,3 +10,13 @@ Data Science Course
 ## Week 3 Assignment:
   - Understanding the purpose of Data Visualization and different chart types
   - Connecting data sources to Tableau
+## Week 4 Asignment:
+  - Clean the data
+  - Perform Exploratory Data Analysis on the dataset
+  - Analyze the data more deeply and extract insights
+## Week 5 Assigment:
+  - Classification problem
+  - Logistic Regression model
+  - Confusion Matrix
+  - Precision, Recall, Type 1 & Type 2 error
+  - Basic Natural Language Processing (NLP)
